@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: aqua;
+}
+.toparea{
+    background: #b75651;
+    padding: 10px 0;
+    color: #fff;
+    text-align: center;
+
+}
+.logoarea{
+    background-color: #f2c388;
+    padding: 50px 0;
+    text-align: center;
+}
+.logoarea img{
+    width: 100px;
+}
+.area{
+  background-color: #f2c388;  
+}
+.title h1{
+    color: #74353f;
+    text-shadow:none;
+}
+.coursearea{
+    background-image: linear-gradient(rgba(0,0,0,0.7)),(rgba(0,0,0,0.7));
+    background-image:url('lib.jpg');
+    padding: 100px;
+    text-align: center;
+}
+.box{
+    width: 100%;
+    margin: 20px 0;
+    padding: 30px;
+    border: solid 1px black;
+    background-color: #fff;
+}
+.box img{
+    width: 100%;
+    transition: all 4s;
+}
+.box:hover img{
+    transform: rotate(360deg);
+}
+.nav-link{
+    color: red !important;
+}
+.nav-link:hover{
+    color: black !important;
+}
+.symbol{
+    margin-left: 500px;
+}
+
+.sign{
+    line-height: 5;
+    margin-left: 700px;
+}
+.des{
+    line-height: 3;
+    background-color:#fff;
+}
+.video{
+    background-color: #fff;
+}
